@@ -1,11 +1,9 @@
-Here’s a sample README.md file for your GitHub repository, which explains how the script works, its features, installation instructions, and usage:
-
-![image](https://github.com/user-attachments/assets/f50c13c8-1e96-4503-a7a1-f561d7c96b67)
-
-
 # Profit Maximization and Surplus Calculator
 
 This Python-based graphical application computes the profit-maximizing price and quantity, as well as the consumer surplus, producer surplus, and total profit from given inverse demand and cost functions. The application provides a user-friendly graphical interface (built with Tkinter) to input functions, visualize results through plots (generated with Matplotlib), and displays important economic metrics.
+
+![image](https://github.com/user-attachments/assets/f50c13c8-1e96-4503-a7a1-f561d7c96b67)
+
 
 ## Features
 
