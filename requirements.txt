@@ -1,4 +1,7 @@
-Flask
 sympy
-matplotlib
-gunicorn
+matplotlib.pyplot
+tkinter
+re
+matplotlib.backends.backend_tkagg
+sympy.utilities.lambdify import lambdify
+numpy
