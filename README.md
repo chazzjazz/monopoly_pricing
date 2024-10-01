@@ -1,6 +1,7 @@
 Here’s a sample README.md file for your GitHub repository, which explains how the script works, its features, installation instructions, and usage:
 
----
+![image](https://github.com/user-attachments/assets/f50c13c8-1e96-4503-a7a1-f561d7c96b67)
+
 
 # Profit Maximization and Surplus Calculator
 
